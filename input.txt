@@ -1,0 +1,6 @@
+developer: Valve
+publisher: valve
+platform: windows
+required_age: 18 
+category: Single-player
+genre: Action
